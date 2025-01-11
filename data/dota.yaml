@@ -1,0 +1,11 @@
+train: dota/S5_L1/train
+val: dota/S5_L1/val
+test: 
+
+# number of classes
+nc: 6
+
+# class names
+names : ['large-vehicle', 'harbor', 'soccer-ball-field', 'tennis-court', 'swimming-pool', 'storage-tank'] # S5_L1
+# names : ['ship', 'storage-tank', 'helicopter', 'large-vehicle', 'soccer-ball-field', 'harbor'] # S3_L3
+# names : ['bridge', 'small-vehicle', 'ship', 'storage-tank', 'harbor', 'helicopter'] # S1_L5
