@@ -109,7 +109,7 @@ python detect.py \
 - Original YOLOv4 repository: [WongKinYiu/PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4)
 
 ---
-=======
+
 ```markdown
 # BCD_YOLOv4: Multi-Scale Object Detection and Semantic Augmentation
 
