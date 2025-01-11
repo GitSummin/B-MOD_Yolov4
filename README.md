@@ -34,7 +34,7 @@ The table below illustrates the performance comparison across various object rat
 Figures illustrate detection results across various object distribution scenarios:
 
 1. **Balanced Distribution (3:3 Small:Large)**
-   Left to Right: Bhattacharyya Distance (BCD), Normalized Wasserstein Distance (NWD), Intersection over Union (IoU).
+   : Left to Right: Bhattacharyya Distance (BCD), Normalized Wasserstein Distance (NWD), Intersection over Union (IoU).
    ![3:3 Results](figure/detect_1.png)
 
 2. **Small-Object-Dominant (1:5 Small:Large)**
