@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BCD_YOLOv4: Multi-Scale Object Detection and Semantic Augmentation
 
 ## Overview
