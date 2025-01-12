@@ -62,6 +62,11 @@ Figures illustrate detection results across various object distribution scenario
   - Download the dataset [here](https://captain-whu.github.io/DOTA/).
   - Modify `dota.yaml` to include dataset paths.
 
+### Addition Files
+- **Weight & Detection Results**:
+  - Download the weight file and detection results [here](https://drive.google.com/drive/folders/1cAopLErpIYxDcvdtNsIpvchS1Ii_elEZ?usp=sharing)
+  - Modify 'weights/' to include weights files.
+
 ### Clone Repository
 ```bash
 git clone https://github.com/GitSummin/BCD_Yolov4.git
