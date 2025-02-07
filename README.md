@@ -1,4 +1,4 @@
-# BCD_YOLOv4: Multi-Scale Object Detection and Semantic Augmentation
+# B-MOD_YOLOv4: Multi-Scale Object Detection and Semantic Augmentation
 
 ## Overview
 
@@ -20,14 +20,14 @@ The table below illustrates the performance comparison across various object rat
 | Object Ratio        | Method | Before Augmentation | After Augmentation |
 |---------------------|--------|---------------------|--------------------|
 | 5:1 (Small:Large)   | IoU    | 0.230               | 0.247              |
-|                     | NWD    | 0.261               | 0.432              |
-|                     | BCD    | 0.270               | **0.412**          |
+|                     | N-SOD  | 0.261               | 0.432              |
+|                     | B-MOD  | 0.270               | **0.412**          |
 | 3:3 (Small:Large)   | IoU    | 0.345               | 0.633              |
-|                     | NWD    | 0.265               | 0.572              |
-|                     | BCD    | 0.278               | **0.649**          |
+|                     | N-SOD  | 0.265               | 0.572              |
+|                     | B-MOD  | 0.278               | **0.649**          |
 | 1:5 (Small:Large)   | IoU    | 0.428               | 0.516              |
-|                     | NWD    | 0.377               | 0.462              |
-|                     | BCD    | 0.375               | **0.608**          |
+|                     | N-SOD  | 0.377               | 0.462              |
+|                     | B-MOD  | 0.375               | **0.608**          |
 
 ### Detection Results
 
@@ -106,7 +106,7 @@ python detect.py \
 ## Results and Visualization
 
 - **Performance Table**: Detailed in the "Performance Evaluation" section.
-- **Visual Comparisons**: Detection results for IoU, NWD, and BCD are visualized in Figures 1, 2, and 3.
+- **Visual Comparisons**: Detection results for IoU, N-SOD, and B-MOD are visualized in Figures 1, 2, and 3.
 
 ---
 
